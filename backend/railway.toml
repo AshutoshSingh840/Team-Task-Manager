@@ -1,6 +1,3 @@
-[build]
-builder = "NIXPACKS"
-
 [deploy]
 startCommand = "npx prisma generate && node src/index.js"
 healthcheckPath = "/health"
