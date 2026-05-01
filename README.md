@@ -20,6 +20,27 @@ Full-stack web app for managing projects, assigning tasks, and tracking progress
 - My Tasks view with inline status updates
 - Admin user management panel
 
+  ---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- HTML, CSS, JavaScript
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB (Atlas)
+
+### Other Tools
+- Git & GitHub
+- REST APIs
+
+---
+
 ## Local Development
 
 ### Backend
@@ -83,6 +104,3 @@ npm run dev
 | DELETE | /api/tasks/:id | Delete task |
 | GET | /api/users | List all users |
 | PATCH | /api/users/:id/role | Change user role (Admin only) |
-
-
-hanji hanji
